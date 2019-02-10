@@ -12,4 +12,4 @@ The screenshot is using a simple Bash promt, [tmux](https://github.com/tmux/tmux
 
 ## License
 
-MIT © [Frekyll](https://frekyll.com)
+MIT © [Frekyll](https://github.com/frekyll)
