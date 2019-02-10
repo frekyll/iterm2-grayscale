@@ -8,7 +8,7 @@
 - Double-click the downloaded file
 
 ## Tip
-The screenshot is using a simple Bash promt, [tmux](https://github.com/tmux/tmux), and [Vim](https://github.com/vim/vim) with `syntax off`.
+The screenshot is using a simple Bash promt, Monaco font, [tmux](https://github.com/tmux/tmux), and [Vim](https://github.com/vim/vim) with `syntax off`.
 
 ## License
 
