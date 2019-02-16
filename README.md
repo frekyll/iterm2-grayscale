@@ -10,6 +10,9 @@
 ## Tip
 The screenshot is using a simple Bash promt, Monaco font, [tmux](https://github.com/tmux/tmux), and [Vim](https://github.com/vim/vim) with `syntax off`.
 
+## Related
+- [iterm2-apex](https://github.com/heidar/iterm2-apex)
+
 ## License
 
 MIT © [Frekyll](https://github.com/frekyll)
